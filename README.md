@@ -5,11 +5,11 @@
 </p>
 
 ## 🚀 About
-This is my old personal portfolio and blog that showcases my work and projects, built with Next.js 14. Feel free to visit it [here](https://old.ryangan.me/). My new portfolio is [here](https://ryangan.me/).
+This is my old portfolio site that showcases my work and projects, built with Next.js 14. Feel free to visit it [here](https://old.ryangan.me/). My new portfolio is [here](https://ryangan.me/).
 
 ### ⚙️  Technology Stack
 - **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces
-- **[Next.js 13](https://nextjs.org/)**: The newest version of Next.js with `/app` directory and `server action`
+- **[Next.js 14](https://nextjs.org/)**: The newest version of Next.js with `/app` directory and `server action`
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building modern applications
 - **[NextUI](https://nextui.org/)**: UI Library with high-quality React components built on top of Tailwind CSS and React Aria that uses framer motion
 - **[Framer Motion](https://www.framer.com/motion/)**: A production-ready animation library for React
@@ -31,7 +31,7 @@ This is my old personal portfolio and blog that showcases my work and projects, 
     cd ryangan-portfolio-old
     ```
 
-3. Create a `.env.local` file the in root directory and get your Resend API key if you want to use the email service. Check out `.env.example` for the format.
+3. Create a `.env` file the in root directory and get your Resend API key if you want to use the email service. Check out `.env.example` for the format.
 
     ```zsh
     RESEND_API_KEY=YOUR_REDEND_API_KEY
