@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About
-This is my personal portfolio and blog that showcases my work and projects, built with modern technologies and frameworks. Feel free to visit it [here](https://www.ryangan.dev/).
+This is my personal portfolio and blog that showcases my work and projects, built with modern technologies and frameworks. Feel free to visit it [here](https://www.ryangan.me/).
 
 ### ⚙️  Technology Stack
 - **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces
@@ -22,13 +22,13 @@ This is my personal portfolio and blog that showcases my work and projects, buil
 1. Clone the repository: 
 
     ```zsh
-    git clone https://github.com/ryangandev/ryangan-portfolio.git
+    git clone https://github.com/ryangandev/ryangan-portfolio-old.git
     ```
 
 2. Navigate to the project directory: 
 
     ```zsh
-    cd ryangan-portfolio
+    cd ryangan-portfolio-old
     ```
 
 3. Create a `.env.local` file the in root directory and get your Resend API key if you want to use the email service. Check out `.env.example` for the format.
@@ -65,4 +65,4 @@ This project is [MIT](./LICENSE) licensed.
 ## 📬 Contact
 - 📧 Email: ryangan.dev@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/ryangan1/
-- 📂 Portfolio Contact Form: https://www.ryangan.dev/#contact
+- 📂 Portfolio Contact Form: https://old.ryangan.me/#contact
