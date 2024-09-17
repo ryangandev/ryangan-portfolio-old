@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About
-This is my personal portfolio and blog that showcases my work and projects, built with modern technologies and frameworks. Feel free to visit it [here](https://www.ryangan.me/).
+This is my old personal portfolio and blog that showcases my work and projects, built with Next.js 14. Feel free to visit it [here](https://old.ryangan.me/). My new portfolio is [here](https://ryangan.me/).
 
 ### ⚙️  Technology Stack
 - **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces
